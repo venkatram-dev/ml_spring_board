@@ -162,9 +162,18 @@ Using the default config file, the performance was not that great as we can see 
 
 ![reference_train1_loss_image4.png](attachment:reference_train1_loss_image4.png)
 
+![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/reference_train1_loss_image4.png)
+
 ####  Tensorboard charts during eval
 
-![reference_eval1_precision_image1.png](attachment:reference_eval1_precision_image1.png)![reference_eval1_loss_image2.png](attachment:reference_eval1_loss_image2.png)
+![reference_eval1_precision_image1.png](attachment:reference_eval1_precision_image1.png)
+
+![reference_eval1_loss_image2.png](attachment:reference_eval1_loss_image2.png)
+
+![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/reference_eval1_precision_image1.png)
+
+![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/reference_eval1_loss_image2.png)
+
 
 ### Run 2 of reference experiment:
 
@@ -179,9 +188,22 @@ Using the default config file, the performance was not that great as we can see 
 
 ![reference_train_loss_image2.png](attachment:reference_train_loss_image2.png)
 
+![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/reference_train_loss_image2.png)
+
+
 ####  Tensorboard charts during eval
 
-![reference_eval_precision_image1.png](attachment:reference_eval_precision_image1.png)![reference_eval_recall_image1.png](attachment:reference_eval_recall_image1.png)![reference_eval_loss_image2.png](attachment:reference_eval_loss_image2.png)
+![reference_eval_precision_image1.png](attachment:reference_eval_precision_image1.png)
+
+![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/reference_eval_precision_image1.png)
+
+![reference_eval_recall_image1.png](attachment:reference_eval_recall_image1.png)
+
+![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/reference_eval_recall_image1.png)
+
+![reference_eval_loss_image2.png](attachment:reference_eval_loss_image2.png)
+
+![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/reference_eval_loss_image2.png)
 
 # Improve on the reference: 
 
