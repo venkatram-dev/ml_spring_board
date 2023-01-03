@@ -64,7 +64,7 @@ Bounding boxes are color coded with vehicles in red, pedestrians in blue, cyclis
 
 ##### Images in different types of neighborhood
 
-![Screen%20Shot%202022-12-27%20at%2010.47.58%20PM.png](attachment:Screen%20Shot%202022-12-27%20at%2010.47.58%20PM.png)
+
 
 ![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/Screen%20Shot%202022-12-27%20at%2010.47.58%20PM.png)
 
@@ -72,7 +72,12 @@ Bounding boxes are color coded with vehicles in red, pedestrians in blue, cyclis
 ##### Images in different weather conditions
 
 
-![Screen%20Shot%202023-01-03%20at%209.55.31%20AM.png](attachment:Screen%20Shot%202023-01-03%20at%209.55.31%20AM.png)![Screen%20Shot%202023-01-03%20at%209.55.38%20AM.png](attachment:Screen%20Shot%202023-01-03%20at%209.55.38%20AM.png)![Screen%20Shot%202023-01-03%20at%209.55.53%20AM.png](attachment:Screen%20Shot%202023-01-03%20at%209.55.53%20AM.png)
+![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/Screen%20Shot%202023-01-03%20at%209.55.31%20AM.png)
+
+![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/Screen%20Shot%202023-01-03%20at%209.55.38%20AM.png)
+
+![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/Screen%20Shot%202023-01-03%20at%209.55.53%20AM.png)
+
 
 ##### Images with different lighting
 
