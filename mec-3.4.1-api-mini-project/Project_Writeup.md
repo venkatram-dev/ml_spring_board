@@ -84,6 +84,9 @@ Bounding boxes are color coded with vehicles in red, pedestrians in blue, cyclis
 
 ![Screen%20Shot%202022-12-27%20at%2011.08.16%20PM.png](attachment:Screen%20Shot%202022-12-27%20at%2011.08.16%20PM.png)
 
+![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/Screen%20Shot%202022-12-27%20at%2011.08.16%20PM.png)
+
+
 ### Analyse Data distributions.
 
  
@@ -92,12 +95,23 @@ Bounding boxes are color coded with vehicles in red, pedestrians in blue, cyclis
 
 ![Screen%20Shot%202022-12-28%20at%201.32.58%20PM.png](attachment:Screen%20Shot%202022-12-28%20at%201.32.58%20PM.png)
 
+![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/Screen%20Shot%202022-12-28%20at%201.32.58%20PM.png)
+
+
 ![Screen%20Shot%202023-01-03%20at%209.48.33%20AM.png](attachment:Screen%20Shot%202023-01-03%20at%209.48.33%20AM.png)
+
+![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/Screen%20Shot%202023-01-03%20at%209.48.33%20AM.png)
+
+
 
 ##### On average there are  18 bounding boxes per image
 
 
 ![Screen%20Shot%202023-01-03%20at%209.49.16%20AM.png](attachment:Screen%20Shot%202023-01-03%20at%209.49.16%20AM.png)
+
+![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/Screen%20Shot%202023-01-03%20at%209.49.16%20AM.png)
+
+
 
 ##### Area of bounding boxes of vehicles is much more larger. pedstrians and cyclists have smaller area.
 
@@ -105,6 +119,10 @@ This makes sense since vehicles are usally bigger.
  
 
 ![Screen%20Shot%202023-01-03%20at%209.50.15%20AM.png](attachment:Screen%20Shot%202023-01-03%20at%209.50.15%20AM.png)
+
+![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/Screen%20Shot%202023-01-03%20at%209.50.15%20AM.png)
+
+
 
 ## Cross-validation: 
 
