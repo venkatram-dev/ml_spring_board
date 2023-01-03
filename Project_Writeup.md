@@ -212,6 +212,17 @@ More images can be found in the notebook Explore augmentations.ipynb
 
 ![Screen%20Shot%202023-01-03%20at%209.41.40%20AM.png](attachment:Screen%20Shot%202023-01-03%20at%209.41.40%20AM.png)![Screen%20Shot%202023-01-03%20at%209.41.57%20AM.png](attachment:Screen%20Shot%202023-01-03%20at%209.41.57%20AM.png)![Screen%20Shot%202023-01-03%20at%209.42.30%20AM.png](attachment:Screen%20Shot%202023-01-03%20at%209.42.30%20AM.png)![Screen%20Shot%202023-01-03%20at%209.42.46%20AM.png](attachment:Screen%20Shot%202023-01-03%20at%209.42.46%20AM.png)![Screen%20Shot%202023-01-03%20at%209.43.07%20AM.png](attachment:Screen%20Shot%202023-01-03%20at%209.43.07%20AM.png)
 
+![This is an image](images/Screen%20Shot%202023-01-03%20at%209.41.40%20AM.png)
+
+![This is an image](images/Screen%20Shot%202023-01-03%20at%209.41.57%20AM.png)
+
+![This is an image](images/Screen%20Shot%202023-01-03%20at%209.42.30%20AM.png)
+
+![This is an image](images/Screen%20Shot%202023-01-03%20at%209.42.46%20AM.png)
+
+![This is an image](images/Screen%20Shot%202023-01-03%20at%209.43.07%20AM.png)
+
+
 ### Tried couple of different experiments to improve upon the reference config.
 
 Tried different data_augmentation_options to provide the model with different images during the training
@@ -262,9 +273,18 @@ random_jitter_boxes
 
 ![exp2_train_loss_image2.png](attachment:exp2_train_loss_image2.png)
 
+![This is an image](images/exp2_train_loss_image2.png)
+
 ####  Tensorboard charts during eval
 
-![exp2_eval_recall_image1.png](attachment:exp2_eval_recall_image1.png)![exp2_eval_precision_image1.png](attachment:exp2_eval_precision_image1.png)![exp2_eval_loss_image1.png](attachment:exp2_eval_loss_image1.png)
+![exp2_eval_recall_image1.png](attachment:exp2_eval_recall_image1.png)
+![This is an image](images/exp2_eval_recall_image1.png)
+
+![exp2_eval_precision_image1.png](attachment:exp2_eval_precision_image1.png)
+![This is an image](images/exp2_eval_precision_image1.png)
+
+![exp2_eval_loss_image1.png](attachment:exp2_eval_loss_image1.png)
+![This is an image](images/exp2_eval_loss_image1.png)
 
 ## experiment_3:
 
@@ -324,11 +344,23 @@ random_distort_color
 
 #### Tensorboard charts during Train
 
-![exp3_train_loss_image1.png](attachment:exp3_train_loss_image1.png)![exp3_train_loss_image2.png](attachment:exp3_train_loss_image2.png)
+![exp3_train_loss_image1.png](attachment:exp3_train_loss_image1.png)
+![This is an image](images/exp3_train_loss_image1.png)
+
+![exp3_train_loss_image2.png](attachment:exp3_train_loss_image2.png)
+![This is an image](images/exp3_train_loss_image2.png)
 
 ####  Tensorboard charts during eval
 
-![exp3_eval_recall_image1.png](attachment:exp3_eval_recall_image1.png)![exp3_eval_precision_image1.png](attachment:exp3_eval_precision_image1.png)![exp3_eval_loss_image1.png](attachment:exp3_eval_loss_image1.png)
+![exp3_eval_recall_image1.png](attachment:exp3_eval_recall_image1.png)
+![This is an image](images/exp3_eval_recall_image1.png)
+
+![exp3_eval_precision_image1.png](attachment:exp3_eval_precision_image1.png)
+![This is an image](images/exp3_eval_precision_image1.png)
+
+![exp3_eval_loss_image1.png](attachment:exp3_eval_loss_image1.png)
+![This is an image](images/exp3_eval_loss_image1.png)
+
 
 ### Conclusion/ Observations
 
