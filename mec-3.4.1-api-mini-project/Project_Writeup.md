@@ -82,7 +82,6 @@ Bounding boxes are color coded with vehicles in red, pedestrians in blue, cyclis
 ##### Images with different lighting
 
 
-![Screen%20Shot%202022-12-27%20at%2011.08.16%20PM.png](attachment:Screen%20Shot%202022-12-27%20at%2011.08.16%20PM.png)
 
 ![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/Screen%20Shot%202022-12-27%20at%2011.08.16%20PM.png)
 
@@ -93,12 +92,10 @@ Bounding boxes are color coded with vehicles in red, pedestrians in blue, cyclis
 ##### For a sample dataset, this is the distribution  --> ,there are lot more vehicles and a lesser number of pedestrians.
  Number of cyclists are very few.
 
-![Screen%20Shot%202022-12-28%20at%201.32.58%20PM.png](attachment:Screen%20Shot%202022-12-28%20at%201.32.58%20PM.png)
 
 ![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/Screen%20Shot%202022-12-28%20at%201.32.58%20PM.png)
 
 
-![Screen%20Shot%202023-01-03%20at%209.48.33%20AM.png](attachment:Screen%20Shot%202023-01-03%20at%209.48.33%20AM.png)
 
 ![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/Screen%20Shot%202023-01-03%20at%209.48.33%20AM.png)
 
@@ -107,7 +104,6 @@ Bounding boxes are color coded with vehicles in red, pedestrians in blue, cyclis
 ##### On average there are  18 bounding boxes per image
 
 
-![Screen%20Shot%202023-01-03%20at%209.49.16%20AM.png](attachment:Screen%20Shot%202023-01-03%20at%209.49.16%20AM.png)
 
 ![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/Screen%20Shot%202023-01-03%20at%209.49.16%20AM.png)
 
@@ -118,7 +114,6 @@ Bounding boxes are color coded with vehicles in red, pedestrians in blue, cyclis
 This makes sense since vehicles are usally bigger.
  
 
-![Screen%20Shot%202023-01-03%20at%209.50.15%20AM.png](attachment:Screen%20Shot%202023-01-03%20at%209.50.15%20AM.png)
 
 ![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/Screen%20Shot%202023-01-03%20at%209.50.15%20AM.png)
 
