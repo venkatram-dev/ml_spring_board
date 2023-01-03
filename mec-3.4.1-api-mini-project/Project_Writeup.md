@@ -68,6 +68,8 @@ Bounding boxes are color coded with vehicles in red, pedestrians in blue, cyclis
 
 ![This is an image](https://github.com/venkatram-dev/ml_spring_board/blob/main/images/Screen%20Shot%202022-12-27%20at%2010.47.58%20PM.png)
 
+![This is an image](images/Screen%20Shot%202022-12-27%20at%2010.47.58%20PM.png)
+
 
 ##### Images in different weather conditions
 
