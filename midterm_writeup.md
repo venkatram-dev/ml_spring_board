@@ -116,3 +116,42 @@ Different lighting conditions could cause images to look different.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+
+
+
+## Range Image
+
+### Sequence 1
+
+
+![This is an image](images/range_image_sequence_1_1.png)
+
+
+![This is an image](images/range_image_sequence_1_2.png)
+
+
+![This is an image](images/range_image_sequence_1_3.png)
+
+<br>
+<br>
+<br>
+
+### Sequence 3
+
+![This is an image](images/range_image_sequence_3_1.png)
+
+
+<br>
+<br>
+<br>
+
+![This is an image](images/range_image_sequence_3_2.png)
+
+<br>
+<br>
+<br>
+
+
