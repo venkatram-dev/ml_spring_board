@@ -16,8 +16,9 @@ Vehicles closer to sensor have more features visible.
 
 ![This is an image](images/pcd_visibility_variance_with_top_view_angle.png)
 
-
-
+<br>
+<br>
+<br>
 
 
 ### Image in long distance with only few features visible
