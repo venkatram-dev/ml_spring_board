@@ -28,7 +28,9 @@ Vehicles farther away from sensor have only few features visible.
 ![This is an image](images/pcd_visibility_variance_with_distance.png)
 
 
-
+<br>
+<br>
+<br>
 
 
 ### visibility affected due to one vehicle blocking another
@@ -37,7 +39,9 @@ Visibility of one vehicle could be blocked by other vehicle.
 
 ![This is an image](images/pcd_visibility_variance_with_one_object_blocking_other.png)
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -48,7 +52,9 @@ Features of a side of a car for a vehicle close by.
 ![This is an image](images/pcd_visibility_variance_side_close.png)
 
 
-
+<br>
+<br>
+<br>
 
 
 ### side features of a far vehicle 
@@ -57,7 +63,9 @@ Features of a side of a car for a vehicle far away.
 
 ![This is an image](images/pcd_visibility_variance_side_far.png)
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -68,7 +76,9 @@ visibility could be affected if another car is in blindspot with respect to sens
 ![This is an image](images/pcd_visibility_variance_with_blindspot.png)
 
 
-
+<br>
+<br>
+<br>
 
 
 ### visibility affected by trees
@@ -82,7 +92,9 @@ visibility could be affected by objects like trees.
 ![This is an image](images/pcd_visibility_variance_with_trees_2.png)
 
 
-
+<br>
+<br>
+<br>
 
 
 ### visibility affected by lighting conditions
@@ -91,7 +103,9 @@ Different lighting conditions could cause images to look different.
 
 ![This is an image](images/pcd_visibility_different_ligthing.png)
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -99,4 +113,6 @@ Different lighting conditions could cause images to look different.
 
 ![This is an image](images/pcd_visibilty_billboards.png)
 
-
+<br>
+<br>
+<br>
