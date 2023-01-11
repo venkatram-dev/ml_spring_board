@@ -266,3 +266,35 @@ Different lighting conditions could cause images to look different.
 
 <br>
 <br>
+
+
+## Birds Eye View 
+<br>
+
+![This is an image](images/bev_pc1.png)
+
+<br>
+<br>
+<br>
+<br>
+
+## Image Intensity / Image Height
+<br>
+
+![This is an image](images/img_intensity_height_1.png)
+
+<br>
+<br>
+<br>
+<br>
+
+## Labels vs detected
+
+<br>
+
+![This is an image](images/step3_label_vs_detected.png)
+
+<br>
+<br>
+<br>
+<br>
