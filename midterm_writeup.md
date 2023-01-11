@@ -160,7 +160,8 @@ Different lighting conditions could cause images to look different.
 
 ## stable feature on most vehicles
 
-### windshield
+### Windshield
+<br>
 
 ![This is an image](images/pcd_feature_windshield1.png)
 
@@ -178,4 +179,90 @@ Different lighting conditions could cause images to look different.
 <br>
 <br>
 
+### Tires
+<br>
 
+![This is an image](images/pcd_feature_tires1.png)
+
+<br>
+<br>
+
+![This is an image](images/pcd_feature_tires2.png)
+
+<br>
+<br>
+
+
+### Side doors
+<br>
+
+![This is an image](images/pcd_feature_side_door1.png)
+
+<br>
+<br>
+
+![This is an image](images/pcd_feature_side_door2.png)
+
+<br>
+<br>
+
+
+### Side windows
+<br>
+
+![This is an image](images/pcd_feature_side_windows1.png)
+
+<br>
+<br>
+
+![This is an image](images/pcd_feature_side_windows2.png)
+
+<br>
+<br>
+
+### Rear bumper
+<br>
+
+![This is an image](images/pcd_feature_rear_bumper2.png)
+
+<br>
+<br>
+
+![This is an image](images/pcd_feature_rear_bumper1.png)
+
+<br>
+<br>
+
+### Side mirrors
+<br>
+
+![This is an image](images/pcd_feature_side_mirror_1.png)
+
+<br>
+<br>
+
+![This is an image](images/pcd_feature_side_mirror_2.png)
+
+<br>
+<br>
+
+![This is an image](images/pcd_feature_side_mirror_3.png)
+
+<br>
+<br>
+
+<br>
+<br>
+
+### others objects like construction symbol 
+<br>
+
+![This is an image](images/pcd_feature_construction_boards.png)
+
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
