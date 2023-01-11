@@ -1,6 +1,42 @@
 # MidTerm Writeup
 
 
+## Range Image
+
+### Sequence 1
+
+
+![This is an image](images/range_image_sequence_1_1.png)
+
+
+![This is an image](images/range_image_sequence_1_2.png)
+
+
+![This is an image](images/range_image_sequence_1_3.png)
+
+<br>
+<br>
+<br>
+
+### Sequence 3
+
+![This is an image](images/range_image_sequence_3_1.png)
+
+
+<br>
+<br>
+<br>
+
+![This is an image](images/range_image_sequence_3_2.png)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ## varying degrees of visibility in the point-cloud
 
 Below are few examples for varying degrees of visibility in the point-cloud.
@@ -122,35 +158,23 @@ Different lighting conditions could cause images to look different.
 
 
 
-## Range Image
+## stable feature on most vehicles
 
-### Sequence 1
+### windshield
 
-
-![This is an image](images/range_image_sequence_1_1.png)
-
-
-![This is an image](images/range_image_sequence_1_2.png)
-
-
-![This is an image](images/range_image_sequence_1_3.png)
+![This is an image](images/pcd_feature_windshield1.png)
 
 <br>
 <br>
-<br>
 
-### Sequence 3
-
-![This is an image](images/range_image_sequence_3_1.png)
-
+![This is an image](images/pcd_feature_windshield_2.png)
 
 <br>
 <br>
-<br>
 
-![This is an image](images/range_image_sequence_3_2.png)
 
-<br>
+![This is an image](images/pcd_feature_windshield3.png)
+
 <br>
 <br>
 
