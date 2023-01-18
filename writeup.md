@@ -13,7 +13,7 @@ Please use this starter template to answer the following questions:
 
 <br>
 
-Implemented an EKF to track a single real-world target with lidar measurement input.
+Implemented an EKF to track a single target with lidar measurement input.
 implemented the predict() and update() function.
 Implemented the F() function to calculate a system matrix for constant velocity process model. Implemented the Q() function to calculate the corresponding process noise covariance
 <br>
@@ -83,7 +83,7 @@ RMSE for track 0 is 0.15.RMSE for track 1 is 0.12. RMSE for track 10 is 0.19.
 <br>
 
 Implemented the camera measurement model.  By combining camera and lidar, completed the sensor fusion module for camera-lidar fusion.
-Implemented the function in_fov() to check  checks if the input state vector x lies in the sensor's field of view,
+Implemented the function in_fov() to check  checks if the input state vector x lies in the sensor's field of view.
 
  Initialized camera measurement objects  and integrated the nonlinear camera measurement functions.
  
@@ -91,7 +91,7 @@ Implemented the function in_fov() to check  checks if the input state vector x l
 <br>
 
 
-From the terminal console, We can see that the tracking update now, updates all tracks with lidar measurements, then with camera measurements. As per the  visualization, multiple tracks are updated with multiple measurements. There are some ghost tracks, which get deleted after sometime.
+From the terminal console, We can see that the tracking update first updates all tracks with lidar measurements, then with camera measurements. As per the  visualization, multiple tracks are updated. There are some ghost tracks, which get deleted after sometime.
 Finally there are 3 tracks.Tracks 0 and 1 are seen from the starting. Track 10 starts somewhere in the middle.
 RMSE for track 0 is 0.17.RMSE for track 1 is 0.10. RMSE for track 10 is 0.14.
 The performance is better now compared to lidar-only tracking.
@@ -111,13 +111,13 @@ But overall, the sample exercises in the lessons were very good and it helped to
 # 2. Do you see any benefits in camera-lidar fusion compared to lidar-only tracking (in theory and in your concrete results)? 
 <br>
 <br>
-As per the theoeretical concepts, camera is good for classification of objects and for perceiving 2d structures and images like stop sign. Lidar is good for range measurement, performs much better in dark lighting conditions. Lidar is also supposed to be better in fog,rain. As we can see each has its pros.
-So, theoretically having multiple sensors like camer and lidar will increase the overall accuracy and safety of the self driving systems.
+As per the theoretical concepts, camera is good for classification of objects and for perceiving 2d structures and images like stop sign. Lidar is good for range measurement, performs much better in dark lighting conditions. Lidar is also supposed to be better in fog,rain. As we can see each sensor has its pros.
+So, theoretically having multiple sensors like camera and lidar will increase the overall accuracy and safety of the self driving systems.
 <br>
-As per the results from the project,rmse did decrease for majority of the tracks when using camera-lidar fusion instead of the lidar-only tracking. 
-Also while observing the tracking visualization, the ghost track seemed to disappear faster and out of range tracks were deleted faster using the camera-lidar fusion.
+As per the results from the project, rmse did decrease for majority of the tracks when using camera-lidar fusion instead of the lidar-only tracking. 
+Also while observing the tracking visualization, the ghost tracks seemed to disappear faster and out of range tracks were deleted faster using the camera-lidar fusion.
 
-Both theoretically and practically there are benefits in camera-lidar fusion compared to lidar-only tracking
+Both theoretically and practically(based on project results) there are benefits in camera-lidar fusion compared to lidar-only tracking
 <br>
 <br>
 # 3. Which challenges will a sensor fusion system face in real-life scenarios? Did you see any of these challenges in the project?
